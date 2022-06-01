@@ -3,12 +3,12 @@
 > Criação de sistema que consegue realizar preenchimentos automático.
 
 ### Progresso do Projeto
-[x] Requisitos
-[]
-[]
-[]
-[]
-[]
+- [x] Requisitos
+- [x] Tela de monitoramento
+- [x]
+- [x]
+- [x]
+- [] Automação completa
 
 > Aprendizado Básico em lógica de programação:
 
