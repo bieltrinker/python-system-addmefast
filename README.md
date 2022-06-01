@@ -15,7 +15,7 @@
   ### Linguagem:
 
 > como Padrão, iremos utilizar o python como nossa linguagem para essa atividade.
-+ Python 3.1
++ Python 3.10
 
 
   ### Menu de requisitos:
@@ -33,7 +33,7 @@
 2) Selenium
 4) Pyinstaller
 5) Win32
-6) os
+6) os \> Nativa do python.
 
 ### Estrutura:
 
