@@ -3,12 +3,15 @@
 > Criação de sistema que consegue realizar preenchimentos automático.
 
 ### Progresso do Projeto
-- [x] Requisitos
-- [x] Tela de monitoramento
-- [x]
-- [x]
-- [x]
-- [] Automação completa
+- [x] Requisitos.
+- [x] Fluxograma do Sistema.
+- [x] Sistema de Monitoramento Back-End.
+- [x] Monitor Front-End.
+- [x] Reconhecimento das Impressoras.
+- [x] Automação de Arquivos e Pastas.
+- [x] Identificação da necessidade dos Arquivos.
+- [x] Remover Falhas do Sistema. 
+- [0] Automação completa.
 
 > Aprendizado Básico em lógica de programação:
 
