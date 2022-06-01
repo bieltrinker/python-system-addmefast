@@ -45,7 +45,6 @@ pip install Pyinstaller
 ```python
 pip install Win32
 ```
-6) os - Nativa do Python.
 
 ### Estrutura:
 
