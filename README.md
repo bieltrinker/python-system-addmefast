@@ -5,13 +5,13 @@
 ### Progresso do Projeto
 - [x] Requisitos.
 - [x] Fluxograma do Sistema.
-- [] Sistema de Monitoramento Back-End.
-- [] Monitor Front-End.
-- [] Reconhecimento das Impressoras.
-- [] Automação de Arquivos e Pastas.
-- [] Identificação da necessidade dos Arquivos.
-- [] Remover Falhas do Sistema. 
-- [] Automação completa.
+- [ ] Sistema de Monitoramento Back-End.
+- [ ] Monitor Front-End.
+- [ ] Reconhecimento das Impressoras.
+- [ ] Automação de Arquivos e Pastas.
+- [ ] Identificação da necessidade dos Arquivos.
+- [ ] Remover Falhas do Sistema. 
+- [ ] Automação completa.
 
 > Aprendizado Básico em lógica de programação:
 
