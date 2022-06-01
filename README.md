@@ -1,19 +1,19 @@
 # Introdução:
 
-**Criação de sistema que consegue realizar preenchimentos automático.**
+## Criação de sistema que consegue realizar preenchimentos automático.
 
 
-# Aprendizado Básico em lógica de programação:
+> Aprendizado Básico em lógica de programação:
 
-+ **Controle**
-+ **Condições**
-+ **Variáveis**
-+ **Parâmetro**
++ Controle
++ Condições
++ Variáveis
++ Parâmetro
 
 
-# Linguagem:
+## Linguagem:
 
-* **Python**
++ Python
 
 
 # Introdução:
