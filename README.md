@@ -58,3 +58,6 @@ pip install Win32
 ### Fluxograma:
 
 ![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
+
+---
+Make with :<3: by [Pedro Gabriel](https://www.linkedin.com/in/pedro-gabriel-araujo-dos-santos-7b5959207/)
