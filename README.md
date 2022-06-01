@@ -30,10 +30,22 @@
   ### :octocat: biblíotecas: 
 
 1) WatchDog 
+```python
+pip install watchdog
+```
 2) Selenium
+```python
+pip install Selenium
+```
 4) Pyinstaller
+```python
+pip install Pyinstaller
+```
 5) Win32
-6) os \> Nativa do Python.
+```python
+pip install Win32
+```
+6) os - Nativa do Python.
 
 ### Estrutura:
 
