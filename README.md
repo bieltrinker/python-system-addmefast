@@ -1,24 +1,24 @@
-  ## Introdução:
+  ## :octocat: Introdução:
 
 > Criação de sistema que consegue realizar preenchimentos automático.
 
 
 > Aprendizado Básico em lógica de programação:
 
-  ### Iremos Aprender Também sobre:
+  ### :octocat: Iremos Aprender Também sobre:
 + Controle
 + Condições
 + Variáveis
 + Parâmetro
 
 
-  ### Linguagem:
+  ### :octocat: Linguagem:
 
 > como Padrão, iremos utilizar o python como nossa linguagem para essa atividade.
-+ Python 3.10
++ Python 3.1
 
 
-  ### Menu de requisitos:
+  ### :octocat: Menu de requisitos:
 
 > Tópico 1
 1) Você preicsa ter instalado Python na sua máquina: [Baixe Aqui](https://www.python.org/downloads/)
@@ -27,13 +27,13 @@
 4) Tutorial de como instalar o Vscode: [Acesse Aqui](https://www.youtube.com/watch?v=_R6YslWRUFk)
 
 
-  ### biblíotecas: 
+  ### :octocat: biblíotecas: 
 
-1) WatchDog
+1) WatchDog 
 2) Selenium
 4) Pyinstaller
 5) Win32
-6) os \> Nativa do python.
+6) os
 
 ### Estrutura:
 
