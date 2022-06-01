@@ -31,7 +31,7 @@
 
 1) WatchDog 
 ```python
-pip install watchdog
+pip install Watchdog
 ```
 2) Selenium
 ```python
