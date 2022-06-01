@@ -33,7 +33,7 @@
 2) Selenium
 4) Pyinstaller
 5) Win32
-6) os
+6) os \> Nativa do Python.
 
 ### Estrutura:
 
