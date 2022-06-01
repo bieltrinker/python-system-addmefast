@@ -27,7 +27,7 @@ Esse projeto tem como objetivo a criação de um sistema que consegue realizar a
 
 
 ### Progresso do Projeto
-- [x] Requisitos.
+- [x] Biblíoteca.
 - [x] Fluxograma do Sistema.
 - [ ] Sistema de Monitoramento Back-End.
 - [ ] Monitor Front-End.
