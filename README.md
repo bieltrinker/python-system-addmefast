@@ -2,17 +2,6 @@
 
 Esse projeto tem como objetivo a criação de um sistema que consegue realizar automação em arquivos/pastas e também automação em impressoras; Aprendizado em lógica de programação; identificar melhorias em sistemas; Buscar possíveis falhas visíveis ao longo prazo ex(Lentidão, Biglogs); conhecimento em nova linguagem de programação.
 
-### Progresso do Projeto
-- [x] Requisitos.
-- [x] Fluxograma do Sistema.
-- [ ] Sistema de Monitoramento Back-End.
-- [ ] Monitor Front-End.
-- [ ] Reconhecimento das Impressoras.
-- [ ] Automação de Arquivos e Pastas.
-- [ ] Identificação da necessidade dos Arquivos.
-- [ ] Remover Falhas do Sistema. 
-- [ ] Automação completa.
-
 
 ### :octocat: Iremos Aprender Também sobre:
 
@@ -35,6 +24,18 @@ Esse projeto tem como objetivo a criação de um sistema que consegue realizar a
 2) Tutorial de como instalar o Python: [Acesse Aqui](https://www.youtube.com/watch?v=KeDLsBmi3JA)
 3) Você precisa ter um editor de linguagem. Recomendo: [Baixe Aqui](https://code.visualstudio.com/)
 4) Tutorial de como instalar o Vscode: [Acesse Aqui](https://www.youtube.com/watch?v=_R6YslWRUFk)
+
+
+### Progresso do Projeto
+- [x] Requisitos.
+- [x] Fluxograma do Sistema.
+- [ ] Sistema de Monitoramento Back-End.
+- [ ] Monitor Front-End.
+- [ ] Reconhecimento das Impressoras.
+- [ ] Automação de Arquivos e Pastas.
+- [ ] Identificação da necessidade dos Arquivos.
+- [ ] Remover Falhas do Sistema. 
+- [ ] Automação completa.
 
 
 ### :octocat: biblíotecas: 
