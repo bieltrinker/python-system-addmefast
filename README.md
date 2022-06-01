@@ -5,10 +5,10 @@
 
 # Aprendizado Básico em lógica de programação:
 
-* **Controle**
-* **Condições**
-* **Variáveis**
-* **Parâmetro**
++ **Controle**
++ **Condições**
++ **Variáveis**
++ **Parâmetro**
 
 
 # Linguagem:
