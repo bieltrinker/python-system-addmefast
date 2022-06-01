@@ -1,8 +1,7 @@
 ## :octocat: Introdução:
 
-> Criação de sistema que consegue realizar preenchimentos automático.
-
-> Aprendizado Básico em lógica de programação:
+> Esse projeto é a criação de um sistema que consegue realizar automação em arquivos/pastas e também automação em impressoras; Aprendizado em lógica de programação; identificar melhorias em sistemas; Buscar possíveis falhas visíveis ao longo prazo ex(Lentidão, Biglogs); conhecimento em nova linguagem de programação.
+ 
 ### Progresso do Projeto
 - [x] Requisitos.
 - [x] Fluxograma do Sistema.
