@@ -56,6 +56,6 @@ pip install Pyinstaller
 pip install Win32
 ```
 ---
-### Estrutura:
+### Fluxograma:
 
-Primeiro Precisaremos criar um monitor para monitorar todo nosso sistema, desde ações simples, até ações mais complexas sendo o mais detalhadas possíveis.
+![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
