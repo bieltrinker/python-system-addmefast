@@ -1,24 +1,32 @@
-  ## :octocat: Introdução:
+## :octocat: Introdução:
 
 > Criação de sistema que consegue realizar preenchimentos automático.
 
+### Progresso do Projeto
+[x] Requisitos
+[]
+[]
+[]
+[]
+[]
 
 > Aprendizado Básico em lógica de programação:
 
-  ### :octocat: Iremos Aprender Também sobre:
+### :octocat: Iremos Aprender Também sobre:
+
 + Controle
 + Condições
 + Variáveis
 + Parâmetro
 
 
-  ### :octocat: Linguagem:
+### :octocat: Linguagem:
 
 > como Padrão, iremos utilizar o python como nossa linguagem para essa atividade.
 + Python 3.1
 
 
-  ### :octocat: Menu de requisitos:
+### :octocat: Menu de requisitos:
 
 > Tópico 1
 1) Você preicsa ter instalado Python na sua máquina: [Baixe Aqui](https://www.python.org/downloads/)
@@ -27,7 +35,7 @@
 4) Tutorial de como instalar o Vscode: [Acesse Aqui](https://www.youtube.com/watch?v=_R6YslWRUFk)
 
 
-  ### :octocat: biblíotecas: 
+### :octocat: biblíotecas: 
 
 1) WatchDog 
 ```python
@@ -48,6 +56,4 @@ pip install Win32
 ---
 ### Estrutura:
 
-1) Primeiro 
-    
-Precisaremos criar um monitor para monitorar todo nosso sistema, desde ações simples, até ações mais complexas e bem detalhadas
+Primeiro Precisaremos criar um monitor para monitorar todo nosso sistema, desde ações simples, até ações mais complexas sendo o mais detalhadas possíveis.
