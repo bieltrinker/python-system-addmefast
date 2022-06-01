@@ -1,9 +1,9 @@
-## :octocat: Introdução:
+## Introdução:
 
 Esse projeto tem como objetivo a criação de um sistema que consegue realizar automação em arquivos/pastas e também automação em impressoras; Aprendizado em lógica de programação; identificar melhorias em sistemas; Buscar possíveis falhas visíveis ao longo prazo ex(Lentidão, Biglogs); conhecimento em nova linguagem de programação.
 
 
-### :octocat: Iremos Aprender Também sobre:
+### Iremos Aprender Também sobre:
 
 + Controle
 + Condições
@@ -11,12 +11,12 @@ Esse projeto tem como objetivo a criação de um sistema que consegue realizar a
 + Parâmetro
 
 
-### :octocat: Linguagem:
+### Linguagem:
 
 + Python 3.1
 
 
-### :octocat: Menu de requisitos:
+### Menu de requisitos:
 
 1) Você preicsa ter instalado Python na sua máquina: [Baixe Aqui](https://www.python.org/downloads/)
 2) Tutorial de como instalar o Python: [Acesse Aqui](https://www.youtube.com/watch?v=KeDLsBmi3JA)
@@ -55,9 +55,9 @@ pip install Pyinstaller
 pip install Win32
 ```
 ---
-### Fluxograma:
+### :octocat: Fluxograma:
 
 ![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
 
 ---
-Make with :<3: by [Pedro Gabriel](https://www.linkedin.com/in/pedro-gabriel-araujo-dos-santos-7b5959207/)
+Make with :heart: by [Pedro Gabriel](https://www.linkedin.com/in/pedro-gabriel-araujo-dos-santos-7b5959207/)
