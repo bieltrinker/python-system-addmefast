@@ -47,5 +47,6 @@ pip install Win32
 ```
 
 ### Estrutura:
-1. Primeiro 
+
+1) Primeiro 
     Precisaremos criar um monitor para monitorar todo nosso sistema, desde ações simples, até ações mais complexas e bem detalhadas
