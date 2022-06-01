@@ -1,7 +1,7 @@
 ## :octocat: Introdução:
 
 > Criação de sistema que consegue realizar preenchimentos automático.
-
+> Aprendizado Básico em lógica de programação:
 ### Progresso do Projeto
 - [x] Requisitos.
 - [x] Fluxograma do Sistema.
@@ -13,7 +13,6 @@
 - [ ] Remover Falhas do Sistema. 
 - [ ] Automação completa.
 
-> Aprendizado Básico em lógica de programação:
 
 ### :octocat: Iremos Aprender Também sobre:
 
