@@ -13,13 +13,11 @@ Esse projeto tem como objetivo a criação de um sistema que consegue realizar a
 
 ### :octocat: Linguagem:
 
-> como Padrão, iremos utilizar o python como nossa linguagem para essa atividade.
 + Python 3.1
 
 
 ### :octocat: Menu de requisitos:
 
-> Tópico 1
 1) Você preicsa ter instalado Python na sua máquina: [Baixe Aqui](https://www.python.org/downloads/)
 2) Tutorial de como instalar o Python: [Acesse Aqui](https://www.youtube.com/watch?v=KeDLsBmi3JA)
 3) Você precisa ter um editor de linguagem. Recomendo: [Baixe Aqui](https://code.visualstudio.com/)
