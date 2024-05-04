@@ -1,63 +1,57 @@
-## Introdução:
+## Introdução
 
-Esse projeto tem como objetivo a criação de um sistema que consegue realizar automação em arquivos/pastas e também automação em impressoras; Aprendizado em lógica de programação; identificar melhorias em sistemas; Buscar possíveis falhas visíveis ao longo prazo ex(Lentidão, Biglogs); conhecimento em nova linguagem de programação.
+Este projeto visa a criação de um sistema capaz de automatizar operações em arquivos/pastas e também em impressoras. Além disso, busca-se promover aprendizado em lógica de programação, identificação de melhorias em sistemas e detecção de possíveis falhas de desempenho a longo prazo (como lentidão e registros excessivamente grandes). Também proporcionará conhecimento em uma nova linguagem de programação.
 
+### O Que Vamos Aprender
 
-### Iremos Aprender Também sobre:
+- Controle
+- Condições
+- Variáveis
+- Parâmetros
 
-+ Controle
-+ Condições
-+ Variáveis
-+ Parâmetro
+### Linguagem Utilizada
 
+- Python 3.1
 
-### Linguagem:
+### Requisitos
 
-+ Python 3.1
-
-
-### Menu de requisitos:
-
-1) Você preicsa ter instalado Python na sua máquina: [Baixe Aqui](https://www.python.org/downloads/)
-2) Tutorial de como instalar o Python: [Acesse Aqui](https://www.youtube.com/watch?v=KeDLsBmi3JA)
-3) Você precisa ter um editor de linguagem. Recomendo: [Baixe Aqui](https://code.visualstudio.com/)
-4) Tutorial de como instalar o Vscode: [Acesse Aqui](https://www.youtube.com/watch?v=_R6YslWRUFk)
-
+1. Você precisa ter o Python instalado em sua máquina: [Baixe Aqui](https://www.python.org/downloads/)
+2. Tutorial de instalação do Python: [Acesse Aqui](https://www.youtube.com/watch?v=KeDLsBmi3JA)
+3. Você precisa ter um editor de código. Recomendamos: [Baixe Aqui](https://code.visualstudio.com/)
+4. Tutorial de instalação do VSCode: [Acesse Aqui](https://www.youtube.com/watch?v=_R6YslWRUFk)
 
 ### Progresso do Projeto
-- [x] Biblíoteca.
-- [x] Fluxograma do Sistema.
-- [ ] Sistema de Monitoramento Back-End.
-- [ ] Monitor Front-End.
-- [ ] Reconhecimento das Impressoras.
-- [ ] Automação de Arquivos e Pastas.
-- [ ] Identificação da necessidade dos Arquivos.
-- [ ] Remover Falhas do Sistema. 
-- [ ] Automação completa.
 
+- [x] Biblioteca
+- [x] Fluxograma do Sistema
+- [ ] Sistema de Monitoramento Back-End
+- [ ] Monitor Front-End
+- [ ] Reconhecimento das Impressoras
+- [ ] Automação de Arquivos e Pastas
+- [ ] Identificação da Necessidade dos Arquivos
+- [ ] Remoção de Falhas do Sistema
+- [ ] Automação Completa
 
-### :octocat: biblíotecas: 
+### :octocat: Bibliotecas
 
-1) WatchDog 
-```python
-pip install Watchdog
-```
-2) Selenium
-```python
-pip install Selenium
-```
-4) Pyinstaller
-```python
-pip install Pyinstaller
-```
-5) Win32
-```python
-pip install Win32
-```
+1. WatchDog 
+   ```python
+   pip install Watchdog
+   ```
+
+2. Selenium
+   ```python
+   pip install Selenium
+   ```
+
+3. Pyinstaller
+   ```python
+   pip install Pyinstaller
+   ```
+
+4. Win32
+   ```python
+   pip install Win32
+   ```
+
 ---
-### :octocat: Fluxograma:
-
-![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
-
----
-Make with :heart: by [Pedro Gabriel](https://www.linkedin.com/in/pedro-gabriel-araujo-dos-santos-7b5959207/)
